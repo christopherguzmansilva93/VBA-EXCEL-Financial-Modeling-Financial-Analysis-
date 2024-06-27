@@ -1,2 +1,5 @@
-# VBA-EXCEL-Financial-Modeling-Financial-Analysis-
-Applying theories from Accounting, Corporate Finance, Economics, Entrepreneurship, and Investments to several real-world financial modeling cases. 
+# VBA-EXCEL-Financial-Modeling-Financial-Analysis
+Applying theories from Accounting, Corporate Finance, Economics, Entrepreneurship, and Investments to several real-world financial modeling cases. Case-based modeling assignments will include Project Finance, Financial Planning and Analysis, Portfolio Construction and Portfolio Performance Analytics (process automation, reporting and decision support). That is to say, the course will take a practical approach to real-world business problems by integrating key technical skills. Large amounts of data are often used in financial modeling. The course integrates a finance curriculum with a tutorial in Visual Basic for Applications (VBA) – a key building block for financial analysts and others. 
+
+VBA is an important tool used by business professionals to build financial models and improve the efficiency of business processes. Each case will rely on advanced Excel skills and/or Visual Basic for Applications (VBA). Like Excel, VBA is a critical tool of modern financial analysts and others. With the right VBA input, Excel can be a powerful and effective financial application for forecasting, financial planning, pricing analyses, investment strategies, performance analysis or risk-management.  
+
